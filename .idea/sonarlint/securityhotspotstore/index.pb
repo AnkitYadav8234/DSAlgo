@@ -34,3 +34,7 @@ R
 "src/main/java/array/MaxWealth.java,9\4\94d15047abbc6ee79419b0ac2af67ddb59d0c080
 `
 0src/main/java/binarysearch/BinarySearchDemo.java,d\4\d415542aa32b01ed289ae59851d5476a3af3d52d
+W
+'src/main/java/binarysearch/Ceiling.java,e\9\e93d5915855f27f9e32177cf1aa1c4f0f2fe8b70
+U
+%src/main/java/binarysearch/Floor.java,0\8\082b7bd0bd0689d9db07f647a4171318faefc8e0
