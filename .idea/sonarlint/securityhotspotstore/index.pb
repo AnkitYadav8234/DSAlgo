@@ -32,3 +32,5 @@ R
 "src/main/java/array/EvenDigit.java,4\9\4910ddc3b34988382711b8116611ad3140067e68
 R
 "src/main/java/array/MaxWealth.java,9\4\94d15047abbc6ee79419b0ac2af67ddb59d0c080
+`
+0src/main/java/binarysearch/BinarySearchDemo.java,d\4\d415542aa32b01ed289ae59851d5476a3af3d52d
