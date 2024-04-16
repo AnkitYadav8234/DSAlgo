@@ -1,6 +1,4 @@
 
-S
-#src/main/java/org/example/Main.java,0\b\0ba1b9c7a4878802f938e331cc2d8a042087ec6b
 7
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
 T
@@ -17,10 +15,20 @@ b
 2src/main/java/linearsearch/LinearSearchString.java,5\1\51ba3dddda5c4b8a947285de1ad8e5b06cd1a01c
 Å
 Q.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec,2\c\2cabb939da04d3de3a200bf2b575690e1a16316d
-Å
-Q.idea/sonarlint/securityhotspotstore/0/b/0ba1b9c7a4878802f938e331cc2d8a042087ec6b,a\b\abe25e851ee828e40a94fcb1c1be6f78ff7a04cf
 w
 G.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec,8\6\863e0292fd7e9b3e74dafd6cc01f73ba76346482
 :
 
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
+]
+-src/main/java/linearsearch/SearchInRange.java,0\1\01874642bb1da6f6192a4c572cfbb48a66441ade
+S
+#src/main/java/array/MinOfArray.java,2\b\2bb15bda84f0effa262836fdf2fcfe352a6bbdd3
+X
+(src/main/java/array/SearchIn2DArray.java,b\0\b00d89e99cab3181831d110674c1368e666922d4
+U
+%src/main/java/array/MaxIn2DArray.java,2\b\2b9ed9c90edccaf19d4977db31fec6842e582abe
+R
+"src/main/java/array/EvenDigit.java,4\9\4910ddc3b34988382711b8116611ad3140067e68
+R
+"src/main/java/array/MaxWealth.java,9\4\94d15047abbc6ee79419b0ac2af67ddb59d0c080
