@@ -8,6 +8,9 @@ public class Floor {
     static int floorOfNumber(int[] arr, int target){
         int start = 0;
         int end  = arr.length - 1;
+        if(target < arr[arr.length - 1]){
+            return -1;
+        }
 
         while (end >= start){
             int mid = start + (end - start)/2;
