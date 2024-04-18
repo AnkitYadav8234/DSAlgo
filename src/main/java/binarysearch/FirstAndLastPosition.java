@@ -14,6 +14,7 @@ public class FirstAndLastPosition {
         return ans;
     }
     static int search(int[] arr, int target, boolean findStartIndex){
+        //this is for search
         int ans = -1;
         int start = 0;
         int end = arr.length - 1;
