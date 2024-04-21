@@ -50,3 +50,5 @@ Y
 )src/main/java/bubbleshort/BubblShort.java,e\f\efb45b72c0de00ababc4cd15699c311ae8f9ce18
 ^
 .src/main/java/selectionsort/Selectionsort.java,b\3\b3a8e2b01dbc5bd3e4d7c19bcbb8a90b63d91e82
+^
+.src/main/java/insertionsort/InsertionSort.java,4\e\4edc317bc262c576c792b24c18074d4fe23c51ff
