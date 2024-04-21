@@ -38,3 +38,11 @@ W
 'src/main/java/binarysearch/Ceiling.java,e\9\e93d5915855f27f9e32177cf1aa1c4f0f2fe8b70
 U
 %src/main/java/binarysearch/Floor.java,0\8\082b7bd0bd0689d9db07f647a4171318faefc8e0
+K
+src/main/java/practice.java,f\8\f87071cc3470206087c4d3595a31cadb7a268d22
+Y
+)src/main/java/algorithm/BinarySearch.java,9\0\90c7d135eb35fcf226eeecdee6980ee442f040da
+Y
+)src/main/java/algorithm/LinearSearch.java,0\5\0527488dc65d8940275bf20afba7c9b820fdfb36
+R
+"src/main/java/leetcode/TwoSum.java,f\e\fe5510f1e80e96b32441663cdd0497d73df05637
