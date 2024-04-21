@@ -48,3 +48,5 @@ R
 "src/main/java/leetcode/TwoSum.java,f\e\fe5510f1e80e96b32441663cdd0497d73df05637
 Y
 )src/main/java/bubbleshort/BubblShort.java,e\f\efb45b72c0de00ababc4cd15699c311ae8f9ce18
+^
+.src/main/java/selectionsort/Selectionsort.java,b\3\b3a8e2b01dbc5bd3e4d7c19bcbb8a90b63d91e82
