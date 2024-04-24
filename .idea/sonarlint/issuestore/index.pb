@@ -54,10 +54,6 @@ X
 (src/main/java/cyclicsort/CyclicSort.java,2\0\20018a50d19295c2d88d0715e8732ab23a3bf60b
 Y
 )src/main/java/leetcode/MissingNumber.java,9\b\9bfe51e8a527f8b8f84a0448e2784d530b00ae47
-W
-'src/main/java/binarysearchprograms.java,f\4\f4a642085838767d309b9704dade95686865aa2d
-Y
-)src/main/java/binarysearchprograms/A.java,b\0\b0d11489f229bd88d51cdcf9ae18f9f2b7090e5c
 m
 =src/main/java/binarysearchprograms/FirstAndLastOccurence.java,d\1\d1f47a4ecbdb4f8b8067ac1c7ecdeb8e5e6edd27
 f
@@ -97,15 +93,11 @@ Q.idea/sonarlint/securityhotspotstore/b/0/b00d89e99cab3181831d110674c1368e666922
 Å
 Q.idea/sonarlint/securityhotspotstore/d/1/d1f47a4ecbdb4f8b8067ac1c7ecdeb8e5e6edd27,6\b\6b523d32101dc9b730289fd7e2d3d1425b5f8845
 Å
-Q.idea/sonarlint/securityhotspotstore/b/0/b0d11489f229bd88d51cdcf9ae18f9f2b7090e5c,d\a\dad95b8531207a3427c5767387a46eae3e26476a
-Å
 Q.idea/sonarlint/securityhotspotstore/6/9/6996a93036fa54beebece6db05cf97ea08a749dd,9\e\9e0a4ec218ec77dbfafbc6e3e6ab4c907c048dc7
 Å
 Q.idea/sonarlint/securityhotspotstore/0/5/0527488dc65d8940275bf20afba7c9b820fdfb36,f\f\ffc884d73a0d555f3df68743b9b7439d2ed3961b
 Å
 Q.idea/sonarlint/securityhotspotstore/2/b/2b9ed9c90edccaf19d4977db31fec6842e582abe,4\6\4604106e5d0b99d2fbb75817e096ab09903590f1
-Å
-Q.idea/sonarlint/securityhotspotstore/f/4/f4a642085838767d309b9704dade95686865aa2d,6\b\6ba7691eb81271da55a297deda647ec88dacee1b
 Å
 Q.idea/sonarlint/securityhotspotstore/8/3/83678b53a49bc3882202e4017d520cd4216ddc90,d\3\d381176c036bc280d5db946eb8ff496f5cdb2460
 Å
@@ -130,3 +122,7 @@ Q.idea/sonarlint/securityhotspotstore/d/4/d415542aa32b01ed289ae59851d5476a3af3d5
 Q.idea/sonarlint/securityhotspotstore/a/5/a5cc2925ca8258af241be7e5b0381edf30266302,3\0\30205a209c6ce77c4cfc19a09e6f57c588b7fb88
 Å
 Q.idea/sonarlint/securityhotspotstore/e/f/efb45b72c0de00ababc4cd15699c311ae8f9ce18,b\f\bfbaa5f1345fb6ff6813234b181cd1298474bb95
+k
+;src/main/java/binarysearchprograms/BinarySearchCeiling.java,9\6\9640031b881d55924aa2a61bcf03adb036fa6434
+R
+"src/main/java/misc/Calculator.java,2\6\262c45f6fd4ce9e3cae0b5a214fc24e23ea2111b

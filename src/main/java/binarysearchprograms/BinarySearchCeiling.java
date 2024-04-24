@@ -1,6 +1,6 @@
 package binarysearchprograms;
 
-public class BinarySearchFloor {
+public class BinarySearchCeiling {
     public static void main(String[] args) {
             int[] arr = {4,4,8,8,8,15,16,23,42};
         System.out.println(binarySearch(arr, 3));
@@ -19,9 +19,9 @@ public class BinarySearchFloor {
                 break;
             } else if (arr[mid] < target) {
                 start = mid + 1;
-                ans = arr[mid];
             } else {
                 end = mid - 1;
+                ans = arr[mid];
             }
         }
         return ans;
