@@ -126,3 +126,5 @@ k
 ;src/main/java/binarysearchprograms/BinarySearchCeiling.java,9\6\9640031b881d55924aa2a61bcf03adb036fa6434
 R
 "src/main/java/misc/Calculator.java,2\6\262c45f6fd4ce9e3cae0b5a214fc24e23ea2111b
+R
+"src/test/java/misc/Calculator.java,3\6\360b99db35fe81fa8a770de3e09d809e5c5ff5c4
