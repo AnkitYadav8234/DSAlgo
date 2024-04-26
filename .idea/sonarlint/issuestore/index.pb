@@ -128,3 +128,9 @@ R
 "src/main/java/misc/Calculator.java,2\6\262c45f6fd4ce9e3cae0b5a214fc24e23ea2111b
 R
 "src/test/java/misc/Calculator.java,3\6\360b99db35fe81fa8a770de3e09d809e5c5ff5c4
+R
+"src/test/java/misc/JavaMaths1.java,b\2\b2a09de3b88ccc2ce23990bc0f024a5543b5db7b
+R
+"src/test/java/misc/JavaMaths2.java,0\f\0f21757f0ce57631883778a185a3ca0a1e93f01e
+U
+%src/test/java/misc/MathsPrograms.java,3\8\382efee2d3d37dfb5a5265d99b3f60e7db4d3e45
