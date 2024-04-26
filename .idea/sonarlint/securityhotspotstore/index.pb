@@ -134,3 +134,7 @@ R
 "src/test/java/misc/JavaMaths2.java,0\f\0f21757f0ce57631883778a185a3ca0a1e93f01e
 U
 %src/test/java/misc/MathsPrograms.java,3\8\382efee2d3d37dfb5a5265d99b3f60e7db4d3e45
+M
+src/test/java/misc/pracs.java,4\d\4dfde34f9963d2d1827762ab114e08cd40074661
+^
+.src/test/java/bitprograms/BitManipulation.java,2\7\27aae6aff38d0c15e48e2498cc67a688cbfdf2c7

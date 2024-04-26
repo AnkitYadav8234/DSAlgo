@@ -1,23 +1,69 @@
 package misc;
 
 
- public class MathsPrograms {
+import java.util.Arrays;
+
+public class MathsPrograms {
     public static void main(String[] args) {
-        decimalToAnyBase(357, 10);
-        binaryToAnyBase(101, 2);
-        findEvenOdd(9);
-        reverseNumber(23445);
-        power(6, 2);
-        fastExponentiation(2, 3);
-        countDigitOfNum(132);
-        countDigitsViaLog(132);
-        armstrongNumber(153);
-        palindrome(1221);
-        printAllDivisor(24);
+//        decimalToAnyBase(357, 10);
+//        binaryToAnyBase(101, 2);
+//        findEvenOdd(9);
+//        reverseNumber(23445);
+//        power(6, 2);
+//        fastExponentiation(2, 3);
+//        countDigitOfNum(132);
+//        countDigitsViaLog(132);
+//        armstrongNumber(153);
+//        palindrome(1221);
+//        printAllDivisor(24);
+//        primeNumber(25);
+//       sieveAlgorithm(40);
+//       System.out.println(newtonRaphsonSqRoot(25));
 
     }
-
-     private static void printAllDivisor(int num) {
+     static double newtonRaphsonSqRoot(int num){
+        double tol = 0.0001;
+        double root;
+        double X = num;
+        while(true){
+            root = 0.5 * (X + (num/X));
+            double ans = X - root;
+            if(ans < tol){
+                break;
+            }
+            X = root;
+        }
+        return root;
+    }
+     static void sieveAlgorithm(int num) {
+         boolean[] arr = new boolean[num+1];
+         int counter = 2;
+         Arrays.fill(arr,true);
+         while (counter<= num){
+             if (arr[counter] == true){
+                 for (int factor =counter + counter; factor <= num; factor+= counter ){
+                     arr[factor] = false;
+                 }
+             }
+             counter++;
+         }
+         for (int i = 2; i<=num; i++){
+             System.out.println(i + " : "+arr[i]);
+         }
+     }
+     static void primeNumber(int num) {
+         int counter = 2;
+         int sqroot = (int) Math.sqrt(num);
+         while (counter <= sqroot) {
+             if (num % counter == 0) {
+                 System.out.println(num + " is not a prime number");
+                 return;
+             }
+             counter++;
+         }
+         System.out.println(num + " is a prime number");
+     }
+     static void printAllDivisor(int num) {
          int counter = 1;
          int sqroot = (int)Math.sqrt(num);
          while (counter <= sqroot) {
@@ -32,8 +78,7 @@ package misc;
              counter++;
          }
      }
-
-     private static void palindrome(int numb) {
+     static void palindrome(int numb) {
         int rev = 0;
         int copy  = numb;
         while (numb > 0){
@@ -47,7 +92,7 @@ package misc;
             System.out.println("The number is not a Palindrome");
         }
     }
-    private static void armstrongNumber(int num) {
+    static void armstrongNumber(int num) {
         int res  = 0;
         int copy =  num;
         while (num > 0){
